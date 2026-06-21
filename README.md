@@ -6,6 +6,9 @@ Built end to end on Cloudflare's edge: **Workers + D1 (SQLite)**, vanilla JS, no
 
 > **Live demo:** this public version ships with `PREVIEW_MODE = true`, so it runs entirely in the browser on seeded sample data — no database or login required. Deploy `worker.js` to any Cloudflare Worker (or open it locally) and it just works. Tool names and records are illustrative.
 
+![SecOps Portal dashboard](https://github.com/user-attachments/...)
+
+
 ## Why I built it
 
 Security teams juggle two very different kinds of work: time-boxed projects (a PAM rollout, a firewall audit) and never-ending recurring operations (daily alert triage, monthly patch reviews). Most trackers handle one or the other. This portal treats both as first-class, surfaces what's overdue or at risk automatically, and turns the whole picture into a board-ready report in one click — so the team spends time doing the work, not reformatting status updates.
