@@ -6,7 +6,11 @@ Built end to end on Cloudflare's edge: **Workers + D1 (SQLite)**, vanilla JS, no
 
 > **Live demo:** this public version ships with `PREVIEW_MODE = true`, so it runs entirely in the browser on seeded sample data — no database or login required. Deploy `worker.js` to any Cloudflare Worker (or open it locally) and it just works. Tool names and records are illustrative.
 
-![SecOps Portal dashboard](https://github.com/user-attachments/...)
+<img width="1653" height="953" alt="image" src="https://github.com/user-attachments/assets/5a81de52-7ce3-4ed9-9df8-7d3ea2a24620" />
+
+<img width="1677" height="955" alt="image" src="https://github.com/user-attachments/assets/c194a6bc-0f52-49b5-9a56-6ba04e1cd673" />
+
+<img width="1677" height="954" alt="image" src="https://github.com/user-attachments/assets/52621257-9c4f-419d-b570-9af1cc149e47" />
 
 
 ## Why I built it
