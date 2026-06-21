@@ -1,0 +1,26 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Node (if you ever add tooling)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Cloudflare / Wrangler (in case you adopt CLI later)
+.wrangler/
+.dev.vars
+dist/
+
+# Secrets / env — never commit these
+.env
+.env.*
+*.key
+*.pem
+
+# Local scratch / temp
+*.log
+tmp/
